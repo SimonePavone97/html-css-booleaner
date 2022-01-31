@@ -31,4 +31,34 @@
 
 .descrizione-foto{
     font-size: 0.7rem;
+    margin-bottom: 20px;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+.space{
+    margin-bottom: 20px;
+}
+
+#lista{
+    list-style-position: inside;
+    margin-bottom: 20px;
+}
+
+table{
+    padding: 0%;
+    margin-bottom: 20px;   
+}
+
+.rig{
+    color: white;
+    width: 20%;
+    background-color: #20A9E5;
+}
+
+.rigacolorata{
+
+    background-color: #B1E5F2;
 }
