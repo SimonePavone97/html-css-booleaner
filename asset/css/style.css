@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.immaginealta{
+    border: 1px solid red;
+    padding: 5%;
+    height: 40%;
+    background-image: url(../img/img/pattern.png);
+    background-size: contain;
+    background-size: 20%;
+    background-color: cyan;
+}
+
