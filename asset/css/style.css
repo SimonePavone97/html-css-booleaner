@@ -4,13 +4,31 @@
     box-sizing: border-box;
 }
 
+
 .immaginealta{
     border: 1px solid red;
-    padding: 5%;
-    height: 40%;
+    padding: 40px;
     background-image: url(../img/img/pattern.png);
     background-size: contain;
     background-size: 20%;
-    background-color: cyan;
+    background-color: #4EA0FF;
+    margin-bottom: 20px;
 }
 
+#ctheboo{
+    color: #20A9E5;
+}
+
+.cthep{
+    color: darkgray;
+}
+
+.cthe{
+    color: darkgray;
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.descrizione-foto{
+    font-size: 0.7rem;
+}
