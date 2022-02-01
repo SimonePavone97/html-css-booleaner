@@ -4,61 +4,14 @@
     box-sizing: border-box;
 }
 
+#logo{
+    height: 50px;
+}
 
-.immaginealta{
+.logosuperiore{
     border: 1px solid red;
-    padding: 40px;
     background-image: url(../img/img/pattern.png);
-    background-size: contain;
-    background-size: 20%;
-    background-color: #4EA0FF;
-    margin-bottom: 20px;
-}
-
-#ctheboo{
-    color: #20A9E5;
-}
-
-.cthep{
-    color: darkgray;
-}
-
-.cthe{
-    color: darkgray;
-    font-size: 10px;
-    margin-bottom: 20px;
-}
-
-.descrizione-foto{
-    font-size: 0.7rem;
-    margin-bottom: 20px;
-}
-
-.giallo{
-    background-color: yellow;
-}
-
-.space{
-    margin-bottom: 20px;
-}
-
-#lista{
-    list-style-position: inside;
-    margin-bottom: 20px;
-}
-
-table{
-    padding: 0%;
-    margin-bottom: 20px;   
-}
-
-.rig{
-    color: white;
-    width: 20%;
-    background-color: #20A9E5;
-}
-
-.rigacolorata{
-
-    background-color: #B1E5F2;
+    background-size: 28%;
+    background-color: #4ea0ff;
+    padding: 30px;
 }
