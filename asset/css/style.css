@@ -24,3 +24,11 @@
 .f-small{
     font-size: 0.7em;
 }
+
+.giallo{
+    background-color: yellow;
+}
+
+li{
+    margin-left: 1em;
+}
