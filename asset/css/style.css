@@ -21,6 +21,7 @@
     color: royalblue;
 }
 
+
 .f-small{
     font-size: 0.7em;
 }
@@ -31,4 +32,18 @@
 
 li{
     margin-left: 1em;
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+.tbblue{
+    background-color: #4ea0ff;
+    color: white;
+}
+
+.colorlight{
+    background-color: lightblue;
 }
